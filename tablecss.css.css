@@ -1,0 +1,32 @@
+.main{
+    background-color: rgb(0, 247, 255);
+}
+h1{
+    color: rgb(255, 85, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 45px;
+}
+.table{
+    color: rgb(255, 0, 93);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 30px;
+    
+}
+.main-table{
+    margin: auto;
+    border: 3px solid rgb(255, 0, 230);
+    font-size: 20px;
+
+}
+.inside{
+    border:2px dotted black;
+    color: rgb(87, 41, 255);
+    background-color: rgb(222, 255, 157);
+}
+.head{
+    color: rgb(0, 0, 0);
+    background-color: rgb(253, 102, 47);
+}
